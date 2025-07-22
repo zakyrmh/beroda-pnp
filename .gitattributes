@@ -1,0 +1,2 @@
+yolo/*.zip filter=lfs diff=lfs merge=lfs -text
+yolo/env/Lib/site-packages/**/*.dll filter=lfs diff=lfs merge=lfs -text
