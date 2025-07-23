@@ -1,6 +1,6 @@
 # Abaikan folder virtual environment
 yolo/env/
-yolo/datasets
 
-# Abaikan file zip model besar
+# Abaikan file besar
+*.jpg
 *.zip
